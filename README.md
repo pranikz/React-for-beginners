@@ -8,3 +8,6 @@
 
 - Implemented a beginner friendly web app which takes a emoji as an input and shows the meaning of it
 - - [Github](https://github.com/pranikz/React-for-beginners/tree/main/emoji) | [Live Project](https://qsxd4.csb.app/)
+
+- Implemented a beginner friendly web app which takes a emoji as an input and shows the meaning of it
+- - [Github](https://github.com/pranikz/React-for-beginners/tree/main/list-in-array) | [Live Project](https://n5yje.csb.app/)
